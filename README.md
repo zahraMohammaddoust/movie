@@ -1,4 +1,4 @@
-# movie-vue
+# test
 
 ## Project setup
 ```
